@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/badge/license-Hippocratic%20License%20v1.1-red)](LICENSE.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
+[![Travis (.org)](https://img.shields.io/travis/Nereare/gestage)](https://travis-ci.org/Nereare/gestage)
+[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/Nereare/gestage)](https://codeclimate.com/github/Nereare/gestage)
+[![Code Climate coverage](https://img.shields.io/codeclimate/coverage/Nereare/gestage)](https://codeclimate.com/github/Nereare/gestage)
+[![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Nereare/gestage)](https://libraries.io/github/Nereare/gestage)
+
 Uma calculadora de idade gestacional.
 
 ## Installing
