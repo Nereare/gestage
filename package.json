@@ -1,6 +1,6 @@
 {
-  "name": "{{PKG_NAME}}",
-  "description": "{{PKG_DESC}}",
+  "name": "gestage",
+  "description": "Uma calculadora de idade gestacional.",
   "version": "0.1.0",
   "maintainers": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "bugs": {
-    "web": "https://github.com/{{PKG_REPO}}/issues"
+    "web": "https://github.com/Nereare/gestage/issues"
   },
   "license": "MIT"
 }
