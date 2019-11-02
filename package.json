@@ -1,7 +1,7 @@
 {
   "name": "gestage",
   "description": "Uma calculadora de idade gestacional.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "maintainers": [
     {
       "name": "Igor Padoim",

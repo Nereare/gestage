@@ -4,7 +4,7 @@
 # USG age.
 module Gestage
   # Sets the current version of the gem
-  @version = '0.1.0'
+  @version = '0.1.1'
 
   # Returns the Gem's current version.
   #
