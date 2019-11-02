@@ -22,3 +22,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 * Uptade Hippocratic License to `v1.2`.
+* Update `Gemspec` license metadata to `Hippocratic`.

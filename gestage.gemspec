@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version       = Gestage.version
   spec.authors       = ['Igor Padoim']
   spec.email         = ['igorpadoim@gmail.com']
-  spec.license       = 'Nonstandard'
+  spec.license       = 'Hippocratic'
 
   spec.summary       = 'Uma calculadora de idade gestacional.'
   spec.homepage      = 'https://nereare.github.io/gestage/'
