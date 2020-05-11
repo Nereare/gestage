@@ -15,7 +15,7 @@ GEM
     parallel (1.19.1)
     parser (2.7.1.1)
       ast (~> 2.4.0)
-    pastel (0.7.3)
+    pastel (0.7.4)
       equatable (~> 0.6)
       tty-color (~> 0.5)
     rainbow (3.0.0)
@@ -47,7 +47,7 @@ GEM
       docile (~> 1.1)
       simplecov-html (~> 0.11)
     simplecov-html (0.12.1)
-    tty-color (0.5.0)
+    tty-color (0.5.1)
     unicode-display_width (1.7.0)
     yard (0.9.24)
 
