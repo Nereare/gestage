@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 13.0'
   spec.add_development_dependency 'rspec', '~> 3.9'
 
-  spec.add_dependency 'pastel', '~> 0.7.3'
+  spec.add_dependency 'pastel', '>= 0.7.3', '< 0.9.0'
 end
